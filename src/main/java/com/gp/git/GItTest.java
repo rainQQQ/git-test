@@ -9,5 +9,6 @@ public class GItTest {
         System.out.println("hot-fix text!");
         System.out.println("master branch!");
         System.out.println("push branch");
+        System.out.println("github pull");
     }
 }
