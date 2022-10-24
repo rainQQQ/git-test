@@ -8,5 +8,6 @@ public class GItTest {
         System.out.println("hot-fix git4");
         System.out.println("hot-fix text!");
         System.out.println("master branch!");
+        System.out.println("hot-fix branch");
     }
 }
